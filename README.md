@@ -1,6 +1,6 @@
-<br…or create a new repository on the command line
+<br…or create a new repository on the command line />
 echo "# teste" >> README.md
-git init /br>
+git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/yurimaximos/teste.git
